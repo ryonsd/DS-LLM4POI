@@ -1,0 +1,9 @@
+datasets/ca filter=lfs diff=lfs merge=lfs -text
+datasets/nyc filter=lfs diff=lfs merge=lfs -text
+datasets/tky filter=lfs diff=lfs merge=lfs -text
+datasets/ca/raw.zip filter=lfs diff=lfs merge=lfs -text
+datasets/ca/preprocessed filter=lfs diff=lfs merge=lfs -text
+datasets/tky/preprocessed filter=lfs diff=lfs merge=lfs -text
+datasets/tky/raw.zip filter=lfs diff=lfs merge=lfs -text
+datasets/nyc/preprocessed filter=lfs diff=lfs merge=lfs -text
+datasets/nyc/raw.zip filter=lfs diff=lfs merge=lfs -text
